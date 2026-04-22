@@ -11,7 +11,7 @@
 ## 🙋 About Me
 
 I'm a data analyst with hands-on experience in SQL, Power BI, Excel and Google Sheets.
-I am passionate about using data to solve real-world problems — from uncovering water 
+I am passionate about using data to solve real-world problems from uncovering water 
 access inequalities across 27 million people to detecting corruption through data analysis.
 
 Currently completing my NYSC service year at the **National Identity Management 
@@ -34,7 +34,7 @@ data analysis.
 
 | Repository | Description |
 |------------|-------------|
-| [📊 Data Analytics Portfolio](https://github.com/TGLORIOUS/data-analytics-portfolio) | SQL, Power BI & Google Sheets projects — water crisis analysis, TMDB SQL exam, executive dashboards |
+| [📊 Data Analytics Portfolio](https://github.com/TGLORIOUS/data-analytics-portfolio) | SQL, Power BI & Google Sheets projects, water crisis analysis, TMDB SQL exam, executive dashboards |
 | [📝 Data Entry Portfolio](https://github.com/TGLORIOUS/data-entry-portfolio) | Excel data cleaning, validation, and CSV data entry projects |
 
 ---
