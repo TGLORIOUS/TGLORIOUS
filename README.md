@@ -1,72 +1,76 @@
-<div align="center">
-  <h1>👋 Hi, I'm Jeleel — Data Analyst</h1>
-  <p>
-    <b>Turning raw data into actionable insights</b><br>
-    ALX Africa Certified · Abuja, Nigeria 🇳🇬
-  </p>
-</div>
+# Hi, I'm Jeleel 👋
+
+**Data Analyst** · Abuja, Nigeria 🇳🇬
 
 ---
 
-## 🙋 About Me
+## 🧠 About Me
 
-I'm a data analyst with hands-on experience in SQL, Power BI, Excel and Google Sheets.
-I am passionate about using data to solve real-world problems from uncovering water 
-access inequalities across 27 million people to detecting corruption through data analysis.
-
-Currently completing my NYSC service year at the **National Identity Management 
-Commission (NIMC)** in Abuja, where I lead financial bid evaluations and procurement 
-data analysis.
-
----
-
-## 🛠️ Tech Stack
-
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft-Excel-green?style=flat&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-In%20Progress-orange?style=flat&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github&logoColor=white)
+- 🎓 B.Tech Industrial Chemistry — Federal University of Technology Minna
+- 📋 Completed NYSC service year at the **National Identity Management Commission (NIMC)**, Abuja
+- 📊 ALX Africa Data Analytics graduate
+- 🐍 Currently expanding into **Python for Data Analysis**
+- 🎯 Working toward **Data Engineering** as my next milestone
+- 💼 Open to remote **Data Analyst** and **Data Entry** roles
 
 ---
 
-## 📁 Portfolio
+## 🛠️ Skills & Tools
 
-| Repository | Description |
-|------------|-------------|
-| [📊 Data Analytics Portfolio](https://github.com/TGLORIOUS/data-analytics-portfolio) | SQL, Power BI & Google Sheets projects, water crisis analysis, TMDB SQL exam, executive dashboards |
-| [📝 Data Entry Portfolio](https://github.com/TGLORIOUS/data-entry-portfolio) | Excel data cleaning, validation, and CSV data entry projects |
-
----
-
-## 🏆 Featured Projects
-
-🔹 **[Maji Ndogo Water Crisis — SQL Analysis](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/02-maji-ndogo-water-crisis)**
-> 4-part SQL project on a 60,000+ row database — data cleaning, JOINs, CTEs, 
-> corruption investigation, and a 25,398-task improvement plan
-
-🔹 **[Maji Ndogo — Tracking Water Funds](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/07-maji-ndogo-water-funds)**
-> Advanced Power BI dashboard with DAX measures — KPI tracking, budget vs actual, 
-> vendor analysis, and real-time project progress map
-
-🔹 **[Global Drinking Water Access Analysis](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/01-water-access-analysis)**
-> WHO/UNICEF dataset analysis — 231 countries, Annual Rate of Change, 
-> Nigeria ranked top 5 fastest improving nations
+| Category | Tools |
+|----------|-------|
+| Databases | MySQL · SQLite · SQL |
+| Visualisation | Power BI · DAX |
+| Spreadsheets | Microsoft Excel · Google Sheets |
+| Other | Data Cleaning · GitHub · Python *(in progress)* |
 
 ---
 
-## 📜 Certifications
+## 📁 My Portfolios
 
-- 🎓 ALX Africa — Data Analytics
-- 🎓 ALX Africa — Virtual Assistance
-- 🎓 VSAVVY Academy — Virtual Assistance  
-- 🎓 ALX Africa — Professional Foundations
-- 📚 Data Engineering — In Progress
+| Portfolio | Description | Link |
+|-----------|-------------|------|
+| 📊 Data Analytics | SQL, Power BI, Google Sheets projects | [View →](https://github.com/TGLORIOUS/data-analytics-portfolio) |
+| 📝 Data Entry | Excel cleaning, validation, CSV projects | [View →](https://github.com/TGLORIOUS/data-entry-portfolio) |
+| 🌐 Portfolio Website | Live personal website | [tglorious.github.io](https://tglorious.github.io) |
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Featured Projects
 
-- 📍 Abuja, Nigeria
-- 💼 Open to remote Data Analyst & Data Entry roles
-- 🌐 [Data Analytics Portfolio](https://github.com/TGLORIOUS/data-analytics-portfolio)
+### 💧 Maji Ndogo Water Crisis — SQL Analysis
+4-part SQL investigation on a **60,000+ row** database. Uncovered corruption using CTEs and statistical analysis. Generated **25,398 improvement tasks** for a national water infrastructure plan.
+→ [View Project](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/02-maji-ndogo-water-crisis)
+
+### 📊 Maji Ndogo — Tracking Water Funds (Power BI)
+Advanced Power BI dashboard tracking **$147M** in water infrastructure spending. Features KPI visuals, budget vs actual analysis, and real-time progress mapping.
+→ [View Project](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/07-maji-ndogo-water-funds)
+
+### 🌍 Global Drinking Water Access Analysis
+WHO/UNICEF data across **231 countries**. Nigeria ranked **Top 5 fastest improving nations** (+1.77% per year). Aligned with UN SDG 6.
+→ [View Project](https://github.com/TGLORIOUS/data-analytics-portfolio/tree/main/01-water-access-analysis)
+
+---
+
+## 🏅 Certifications
+
+- ✅ ALX Africa — Data Analytics
+- ✅ ALX Africa — Virtual Assistance
+- ✅ ALX Africa — Professional Foundations
+- 🔄 Python for Data Analysis — In Progress
+- 🔄 Data Engineering — In Progress
+
+---
+
+## 📬 Get In Touch
+
+I'm actively looking for **remote Data Analyst and Data Entry roles**.
+Feel free to explore my work or reach out via GitHub!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tglorious.github.io-00d4ff?style=for-the-badge)](https://tglorious.github.io)
+[![Analytics Portfolio](https://img.shields.io/badge/📊_Analytics_Portfolio-GitHub-7c3aed?style=for-the-badge)](https://github.com/TGLORIOUS/data-analytics-portfolio)
+[![Data Entry Portfolio](https://img.shields.io/badge/📝_Data_Entry_Portfolio-GitHub-10b981?style=for-the-badge)](https://github.com/TGLORIOUS/data-entry-portfolio)
+
+---
+
+*"Data is most powerful when it drives real decisions — not just reports."*
